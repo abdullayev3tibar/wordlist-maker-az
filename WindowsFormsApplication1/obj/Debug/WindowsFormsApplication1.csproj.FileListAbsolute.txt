@@ -1,0 +1,43 @@
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\google\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\google\Desktop\c#\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Mənim\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Mənim\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Mənim\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Mənim Kodlarim\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Mənim Kodlarim\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Mənim Kodlarim\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Farmatdan Evvelki Fayllar\farmat-28-09-2020\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\bin\Debug\Wordlist Düzəlt.exe.config
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\bin\Debug\Wordlist Düzəlt.exe
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\bin\Debug\Wordlist Düzəlt.pdb
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\obj\Debug\Wordlist Düzəlt.exe
+C:\Users\User\Desktop\Wordlist\WindowsFormsApplication1\obj\Debug\Wordlist Düzəlt.pdb
