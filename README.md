@@ -1,2 +1,2 @@
-<h3>This simple app generate wordlist from text<h3>
+<h3>Simple wordlist maker<h3>
 
